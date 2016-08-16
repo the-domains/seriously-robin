@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-16T18:55:17.097Z'
+sourcePath: _posts/2016-08-16-small-scale-website-development.md
+author: []
+via: {}
+dateModified: '2016-08-16T18:55:16.520Z'
+title: SMALL-SCALE WEBSITE DEVELOPMENT
+publisher: {}
 description: >-
   I leverage the power of Squarespace to build simple,
   content-management-driven, well thought out and SEO-friendly websites for
   small businesses.
-dateModified: '2016-08-16T18:53:16.602Z'
-datePublished: '2016-08-16T18:53:20.551Z'
-title: SMALL-SCALE WEBSITE DEVELOPMENT
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-16-small-scale-website-development.md
 inFeed: true
 hasPage: false
 inNav: false
