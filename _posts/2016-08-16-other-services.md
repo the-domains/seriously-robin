@@ -1,14 +1,14 @@
 ---
+datePublished: '2016-08-16T18:54:44.882Z'
+sourcePath: _posts/2016-08-16-other-services.md
+author: []
+via: {}
+dateModified: '2016-08-16T18:54:44.385Z'
+title: Other Services
+publisher: {}
 description: >-
   I offer a wide variety of services related to planning, managing and executing
   digital projects. Here are a few of the highlights:
-dateModified: '2016-08-16T18:54:41.515Z'
-datePublished: '2016-08-16T18:54:41.951Z'
-title: Other Services
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-16-other-services.md
 starred: false
 inFeed: true
 hasPage: false
